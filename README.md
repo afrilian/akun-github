@@ -1,5 +1,6 @@
 akun-github
 ===========
 
-NIM  :A11.2011.06259
-Nama :Afrilian Fauzi Ahmad
+NIM  :A11.2011.06259<br/>
+Nama :Afrilian Fauzi Ahmad<br/>
+username : afrilian
